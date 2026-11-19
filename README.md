@@ -1,2 +1,5 @@
 # mi-primer-repositorio-
-proyecto del sena 
+# Arnold Valencia
+<<Lo que estoy aprendiendo en clase>>
+**Analisis y desarrollo de software**
+proyecto del Sena 
